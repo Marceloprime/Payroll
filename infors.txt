@@ -1,0 +1,5 @@
+Spring Initializr uses maven wrapper so type this:
+./mvnw clean spring-boot:run
+
+Para testar:
+curl -v localhost:8080/employees
